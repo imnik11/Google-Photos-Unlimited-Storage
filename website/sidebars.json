@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "BASIC": ["doc1"],
+    "ADVANCED": ["doc2"],
+    "EXTREME": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
